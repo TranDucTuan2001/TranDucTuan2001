@@ -1,8 +1,9 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I'm+a+fullstack+developer+❤️️)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Kaiser+Tuan;Thanks+For+Visiting+My+Page;I'm+a+fullstack+developer+❤️"></a>
+</p>
 <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
@@ -47,9 +48,12 @@
   <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686426&term=phpstorm&gclid=Cj0KCQjw37iTBhCWARIsACBt1IzM6r3okEHJXACXMEyWAskFc4hQdqaMKmD32DzV0L-Ygcs5L6UK224aAp4uEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/TuGVzbywNqfOpw1VWi/giphy.gif" alt="PHPStorm" width="40" height="40"/> </a> 
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kyicnsZl8wJ6CBiZHo/giphy.gif" alt="wordpress" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/bigquery/?utm_source=google&utm_medium=cpc&utm_campaign=emea-gb-all-en-dr-bkws-all-solutions-trial-e-gcp-1011340&utm_content=text-ad-none-any-DEV_c-CRE_574804267126-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery%23v6-KWID_43700053285127694-kwd-63326440124-userloc_9042681&utm_term=KW_google%20bigquery-NET_g-PLAC_&gclid=Cj0KCQjw37iTBhCWARIsACBt1IzYEafpOyum4OUAuqsuQmPSbHxAv7oSo47s94eqorZtbbXwXZAKkhgaApbbEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/500/1*5xYx2KgLQaTN8l3yFidiiA.png" alt="Bigquery" width="40" height="40"/> </a>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
+![Views](https://komarev.com/ghpvc/?username=TranDucTuan2001&label=Profile+visitors:)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranDucTuan2001&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
 
 
 
