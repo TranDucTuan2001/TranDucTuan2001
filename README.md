@@ -21,7 +21,7 @@
  <br/>
  
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&repeat=false&color=1AC3E7&background=39FFF000&random=false&width=435&lines=Base)](https://git.io/typing-svg)**
+<li>Base</li>
 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-14354C.svg?logo=css3&logoColor=white&color=blue"></a>
@@ -31,7 +31,7 @@
 ![SASS](https://img.shields.io/badge/Java-%23E4405F.svg?style=flat&logo=java&logoColor=white)
 <a href="https://www.cplusplus.com/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow"></a>
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&repeat=false&color=1AC3E7&background=39FFF000&random=false&width=435&lines=Frontend)](https://git.io/typing-svg)**
+<li>Frontend</li>
 
 ![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=flat&logo=redux&logoColor=%2361DAFB)
@@ -39,16 +39,13 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-14354C.svg?logo=vue.js&logoColor=white&color=purbleblue"></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
-
-
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&repeat=false&color=1AC3E7&background=39FFF000&random=false&width=435&lines=Backend)](https://git.io/typing-svg)**
-
+<li>Backend</li>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-3670A0?style=flat&logo=django&logoColor=ffdd54)
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&repeat=false&color=1AC3E7&background=39FFF000&random=false&width=435&lines=Database)](https://git.io/typing-svg)**
+<li>Database</li>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 <a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
