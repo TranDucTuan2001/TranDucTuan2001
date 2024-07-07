@@ -98,4 +98,10 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
    
 </div>
-
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/grid-snake.svg" alt = "Snake Game"/>
+</p>
