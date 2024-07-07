@@ -9,20 +9,19 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
-
 <a href="https://www.facebook.com/profile.php?id=100025992548168" target="blank"><img align="center" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/fb.png" alt="fb" height="40" width="40" /></a>
 <a href="https://x.com/KaiserTuan02" target="blank"><img align="center" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/x.png" alt="x" height="40" width="40" /></a>
  <a href="https://www.tiktok.com/@kaiser_tuan" target="blank"><img align="center" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/social-media.png" alt="tiktok" height="48" width="48" /></a>
 <a href="https://weibo.com/u/7458481921" target="blank"><img align="center" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/social.png" alt="weibo" height="50" width="50" /></a>
-
 </p>
 
 <img align="right" alt="Shimarin" src="https://github.com/TranDucTuan2001/KaiserShop_FE/blob/main/src/assets/images/giphy.gif"/>
  <br/>
 
 ## <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif" width="45px"> My website
-<a href="https://kaiser-shop.vercel.app" target="blank"><img align="center" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/kaiser.png" alt="kaiser" width="40" />KaiserShop</a>
+<img align="center" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/kaiser.png" alt="kaiser" width="40" /> <a href="https://kaiser-shop.vercel.app" target="blank">KaiserShop.com</a>
 
+<img align="center" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/JOSBoxT3dploPJ1ams.webp" alt="dice" width="40" /> <a href="https://dice-game-v1-seven.vercel.app" target="blank">DiceGame.com</a>
  
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
 <li>Base</li>
