@@ -2,10 +2,10 @@
 <img src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/header_.png" >
 <img align="left" height="180" alt="kaisertuan" src="https://github.com/TranDucTuan2001/TranDucTuan2001/blob/main/img/tuan1.jpg"/>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=100&lines=👋Hi,I'm+Kaiser+Tuan;I'm+from+Vietnam;I'm+a+web+developer🧑🏻‍💻;My+hobbies+are+programming+and+playing+games+🎮;Thanks+For+Visiting+My+Page❤️"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=100&lines=👋Hi,I'm+Kaiser+Tuan;I'm+from+Vietnam;I'm+a+web+developer🧑🏻‍💻;My+hobbies+are+programming;and+playing+video+games+🎮;Thanks+For+Visiting+My+Page❤️"></a>
 </p>
 <div>
-<a href="https://buymeacoffee.com/tranductuak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+<img src="https://github.com/TranDucTuan2001/KaiserShop_FE/blob/main/src/assets/images/dragon.webp" height="90" alt="garbinmarcelo" /></div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
